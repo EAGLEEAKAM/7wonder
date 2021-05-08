@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+
+}
+img{
+    width: 1000px;
+}
+h1{
+    color: blue;
+    font-family: inherit  ;
+}
+h3{
+    color: rgb(0, 255, 13);
+    font-size: 30px;
+    font-family: fantasy;
+}
